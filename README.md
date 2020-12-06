@@ -28,6 +28,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Mis estadísticas de GitHub" src="https://github-readme-stats.codestackr.vercel.app/api?username=UriaSantiago&show_icons=true&hide_border=true" />
 
-
+</details>
