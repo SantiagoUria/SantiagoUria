@@ -4,7 +4,6 @@
 
 - 📚 Estudio Licenciatura en sistemas en la UNGS, Buenos Aires
 - 💻 Desarrollador Web Full Stack
-- ⚡ Me gustan los videojuegos y tocar la guitarra
 
 ### Contactame:
 
