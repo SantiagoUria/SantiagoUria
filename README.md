@@ -1,8 +1,6 @@
 ### Hola, mi nombre es santiago 👋
 
-## Soy estudiante de sistemas, desarrollador web y un amante de la tecnología
-
-- 📚 Estudio Licenciatura en sistemas en la UNGS, Buenos Aires
+- 📚 Estudio Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento
 - 💻 Desarrollador Web Full Stack
 
 ### Contactame:
