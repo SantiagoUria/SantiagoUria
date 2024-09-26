@@ -8,4 +8,4 @@ Tengo background JS con experiencia en el stack MERN, especializandome en backen
 
 ### Mi LinkedIn 👇👇👇
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/santiago-uría/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png =30x30)](https://www.linkedin.com/in/santiago-uría/)
