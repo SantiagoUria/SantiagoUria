@@ -6,7 +6,7 @@ Técnico Personal y Profesional en Informática, actualmente culminando la Tecni
 
 Tengo background JS con experiencia en el stack MERN, especializandome en backend .NET C# y AWS 📖🧑‍🎓
 
-### Mi LinkedIn 👉👉
+### Mi LinkedIn 👇
 <a href="https://www.linkedin.com/in/tu-perfil">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
 </a>
